@@ -1,3 +1,8 @@
+
+.body {
+  background-color: aliceblue;
+}
+
 .jumbotron {
   background-color: rgba(6, 53, 226, 0.991);
 }
@@ -37,6 +42,11 @@
   margin: 0px 0px 32px 65px;
   background-color: rgba(6, 53, 226, 0.991);
   box-shadow: 5px 10px 8px #0abb04;
+}
+
+#lastCity {
+display: flex;
+ justify-content: center;
 }
 
 .card {
